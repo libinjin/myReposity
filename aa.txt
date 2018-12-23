@@ -1,5 +1,9 @@
 firstLine
 bb
+<<<<<<< HEAD
 my
 cc
 
+=======
+cc
+>>>>>>> 464a70c33e47cdea1296fd281c3c5cd3c10513d0
