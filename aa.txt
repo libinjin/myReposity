@@ -1,4 +1,2 @@
 firstLine
-bb
-my
-cc
+eeee
